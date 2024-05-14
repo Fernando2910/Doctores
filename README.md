@@ -2,6 +2,9 @@
 
 Este proyecto consiste en una aplicación de gestión de citas médicas desarrollada en Java. Proporciona funcionalidades para agregar doctores, pacientes, crear citas médicas, gestionar usuarios y realizar el inicio de sesión. A continuación se detalla la documentación de las clases y métodos implementados en el código.
 
+OJO:
+Se necesita tener el ejecutable doctores.jar y la carpeta lib juntos, es decir, cuando se descargue o descomprima, se mantengan igual por la libreria de MySQL
+
 ## Estructura del Proyecto
 
 El proyecto está organizado en varios paquetes:
